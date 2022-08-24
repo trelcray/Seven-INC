@@ -32,10 +32,10 @@ export function Modal() {
                     </Typography>
 
                     <Grid container sx={{ mt: 5 }} spacing={1}>
-                        <Grid item xs={4}>
+                        <Grid item lg={4}>
                             <Button color='primary' startIcon={<Cancel />} onClick={handleClose}>Cancelar</Button>
                         </Grid>
-                        <Grid item xs={4}>
+                        <Grid item lg={4}>
                             <Button color='secondary' startIcon={<Delete />} onClick={handleClosed}>excluir</Button>
                         </Grid>
                     </Grid>
