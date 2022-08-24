@@ -2,7 +2,7 @@
 
 Developing an application in ReactJS, using the libraries Material UI and Formik.
 
-see the depoly at: 
+see the depoly at: https://seven-inc-trelcray.vercel.app/
 
 ### consists of the following features:
 
